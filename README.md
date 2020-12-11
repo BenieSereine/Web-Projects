@@ -1,7 +1,7 @@
 # Web-Projects
 This is a repo where there are few html,js based projects. Simple make build and assemble
 
-## Click on the images to visit the respective websites
+## Click on the images to visit the respective websites 😶👇🏻
 
 <h2 align="center"> Project 1 </h2>
 <div align="center">
@@ -28,4 +28,4 @@ This is a repo where there are few html,js based projects. Simple make build and
 </div>
 <hr>
 
-## Click on the images to visit the respective websites
+## Click on the images to visit the respective websites ☝
