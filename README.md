@@ -1,6 +1,8 @@
 # Web-Projects
 This is a repo where there are few html,js based projects. Simple make build and assemble
 
+## Click on the images to visit the respective websites
+
 <h2 align="center"> Project 1 </h2>
 <div align="center">
 
@@ -25,3 +27,5 @@ This is a repo where there are few html,js based projects. Simple make build and
   <p><a href="https://quotetalks.github.io"><img height="400" width="600" src="https://user-images.githubusercontent.com/64016811/101636679-ae8a6700-3a51-11eb-9297-013eaaf3f8e2.jpg"></a></p>
 </div>
 <hr>
+
+## Click on the images to visit the respective websites
