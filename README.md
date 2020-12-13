@@ -34,4 +34,10 @@ This is a repo where there are few html,js based projects. Simple make build and
 </div>
 <hr>
 
+<h2 align="center"> Project 6 </h2>
+<div align="center">
+<p><a href="https://greedyalgorithmhungrymc.github.io/"><img height="600" width="400" src="https://user-images.githubusercontent.com/64016811/102015582-81f08b00-3d82-11eb-9a72-b2b1ca94c512.jpg"></a></p>
+</div>
+<hr>
+
 ## Click on the images to visit the respective websites ☝
